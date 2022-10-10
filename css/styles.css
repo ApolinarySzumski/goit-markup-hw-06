@@ -242,6 +242,9 @@ body {
   letter-spacing: 0.03em;
   color: #ffffff;
 }
+.project-image {
+  display: block;
+}
 /* projects section */
 
 /* our team section */
